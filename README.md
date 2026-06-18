@@ -19,4 +19,4 @@
 ## How to Run
 1. Open Jupyter Notebook
 2. Open `27549_UWIZEYEDocile_Assignment1.ipynb`
-3. Click Kernel → Restart & Run All
+3. Click Kernel -> Restart & Run All
